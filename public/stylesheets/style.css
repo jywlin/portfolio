@@ -1,0 +1,22 @@
+* {
+  font-family: 'Barlow', sans-serif;
+	text-align: center;
+}
+
+
+main {
+	display: inline-block;
+}
+
+img {
+	max-width: 100%;
+}
+
+.js-content-left, .js-content-right {
+	display: inline-block;
+	border: 0px #aaa solid;
+}
+
+.test2 {
+	border: 5px yellow solid;
+}
