@@ -83,12 +83,9 @@ hr {
 .intro {
  	height: 40vh;
  	text-align: center;
+	display: inline-block;
+
 }
-
-
-
-
-
 
 .hr-faceIt {
 	border-top: 4px solid #D93744;
